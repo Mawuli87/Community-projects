@@ -1,6 +1,6 @@
 # Here is the live demo <a href="http://onlineus.info/" style="font-size: 40px">CLICK TO SEE DEMO</a>
 
-(http://onlineus.info/imgreactproducts1.jpg)
+http://onlineus.info/imgreactproducts1.jpg
 
 
 This project wasbuilt with with React.js .
