@@ -9,7 +9,7 @@ This project wasbuilt with with React.js .
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start``npm install, npm audit fix, npm start`
 Follow the instruction to install important components
 
 Runs the app in the development mode.<br>
