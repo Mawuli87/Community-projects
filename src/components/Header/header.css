@@ -1,0 +1,54 @@
+/*Sidebar*/
+.brand button {
+    font-size: 2rem;
+    padding: .1rem;
+    background: none;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+   
+  }
+  .brand button:hover {
+    color: #ff8000;
+  }
+  .sidebar {
+    position: fixed;
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+    transform: translateX(-30rem);
+    width: 20rem;
+    height: 100%;
+    z-index: 99;
+    margin-top: 70px;
+    background-color: #808080;
+  }
+  .sidebar.open {
+    transform: translate(0);
+    background-color: #f0f0f0;
+    height: 100%;
+  }
+  .sidebar-close-button {
+    border-radius: 50%;
+    border: .1rem #000000 solid;
+    width: 2rem;
+    height: 2rem;
+    font-size: rem;
+    cursor: pointer;
+    position: absolute;
+    right: .5rem;
+    top: 0.5rem;
+    margin-right: 1.5rem;
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bolder;
+  }
+  .sidebar-close-button:hover {
+    color: #ffffff;
+    background-color: red;
+  }
+  .sidebar h3{
+      color: #000000;
+      text-align: center;
+      margin-top: 3rem;
+  }
+  
